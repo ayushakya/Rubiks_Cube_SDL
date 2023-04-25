@@ -11,4 +11,4 @@ Instructions to follow:
 4. Press Ctrl with above keys to rotate in anti-clockwise direction.
 
 ## Auto Solve
-Press'space' key to auto solve the cube.
+Press 'space' key to auto solve the cube.
